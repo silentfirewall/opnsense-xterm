@@ -1,4 +1,4 @@
-# Rapid Plugin Development (RPD) Document: Terminal Plugin for OPNsense Firewall
+# Terminal Plugin for OPNsense Firewall
 
 ---
 
