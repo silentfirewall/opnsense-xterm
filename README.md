@@ -1,8 +1,4 @@
-Below is the revised Rapid Plugin Development (RPD) Document for the Terminal Plugin for OPNsense Firewall, incorporating the suggested changes. The structure remains consistent with the original, but content has been enhanced for clarity, scalability, security, and practicality.
-Rapid Plugin Development (RPD) Document: Terminal Plugin for OPNsense Firewall
-1. Purpose
-Develop a terminal plugin for OPNsense to enable secure, browser-based access to SSH, serial consoles, and direct shell sessions within the firewall's web interface, designed for scalability and targeting network administrators and advanced users.
-2. Features
+
 
     Terminal Emulator  
         Support for SSH, serial (RS232), and direct shell access with session persistence across reconnects.  
